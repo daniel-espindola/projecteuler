@@ -2,9 +2,6 @@
 
 Problemas do Archive do project euler resolvidos utilizando python 3.7
 
-## Built With
+## Archive
 
 * [Project Euler](https://projecteuler.net/archives) - Site com a lista de problemas
-
-## Acknowledgments
-Meu amigo Kazu pela parceria na solução dos problemas mais difíceis
